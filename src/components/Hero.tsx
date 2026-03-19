@@ -34,11 +34,11 @@ export default function Hero() {
         <div className="max-w-2xl mx-auto">
           <div className="flex flex-col items-center justify-center mb-6">
             <span className="text-zinc-400 line-through text-xl mb-1">De R$ 97,00</span>
-            <span className="text-4xl md:text-5xl font-black text-white">por apenas R$ 15</span>
+            <span className="text-4xl md:text-5xl font-black text-white">por apenas R$ 27,00</span>
           </div>
           
           <a 
-            href="https://payfast.greenn.com.br/sk6m7hy" 
+            href="https://payfast.greenn.com.br/sk6m7hy/offer/P9mMuj" 
             target="_blank" 
             rel="noopener noreferrer"
             className="w-full max-w-xl mx-auto flex items-center justify-center bg-emerald-500 hover:bg-emerald-600 text-white font-black text-lg md:text-xl py-5 px-8 rounded-xl shadow-[0_0_20px_rgba(16,185,129,0.4)] transition-all transform hover:scale-105 active:scale-95 uppercase tracking-wide text-center"
