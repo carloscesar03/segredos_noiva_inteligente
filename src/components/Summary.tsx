@@ -41,7 +41,7 @@ export default function Summary() {
 
         <div className="bg-white rounded-3xl p-8 md:p-12 shadow-lg border border-zinc-200 text-center">
           <p className="text-2xl md:text-3xl font-bold text-zinc-800 mb-8 leading-tight">
-            Com apenas <span className="text-emerald-600 font-black">R$15</span>, você terá acesso ao guia que mostra exatamente como fazer isso.
+            Com apenas <span className="text-emerald-600 font-black">R$ 27,00</span>, você terá acesso ao guia que mostra exatamente como fazer isso.
           </p>
           
           <p className="text-xl text-zinc-600 mb-10 font-medium">
@@ -54,7 +54,7 @@ export default function Summary() {
           </div>
 
           <a 
-            href="https://payfast.greenn.com.br/sk6m7hy" 
+            href="https://payfast.greenn.com.br/sk6m7hy/offer/P9mMuj" 
             target="_blank" 
             rel="noopener noreferrer"
             className="w-full max-w-xl mx-auto bg-emerald-500 hover:bg-emerald-600 text-white font-black text-xl py-5 px-8 rounded-xl shadow-[0_0_30px_rgba(16,185,129,0.4)] transition-all transform hover:scale-105 active:scale-95 flex items-center justify-center uppercase tracking-wide text-center"
