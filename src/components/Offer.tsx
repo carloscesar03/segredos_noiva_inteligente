@@ -84,7 +84,7 @@ export default function Offer() {
             <div className="flex flex-col items-center justify-center mb-8">
               <span className="text-zinc-400 line-through text-2xl mb-1 font-medium">De R$ 97,00</span>
               <span className="text-5xl md:text-7xl font-black text-zinc-900 tracking-tight">
-                por R$ 15
+                por R$ 27,00
               </span>
               <span className="text-emerald-600 font-bold mt-2 bg-emerald-50 px-3 py-1 rounded-full text-sm">
                 Pagamento único. Sem mensalidades.
@@ -92,7 +92,7 @@ export default function Offer() {
             </div>
             
             <a 
-              href="https://payfast.greenn.com.br/sk6m7hy" 
+              href="https://payfast.greenn.com.br/sk6m7hy/offer/P9mMuj" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-full max-w-2xl mx-auto flex items-center justify-center bg-emerald-500 hover:bg-emerald-600 text-white font-black text-xl md:text-2xl py-5 px-8 rounded-xl shadow-[0_0_30px_rgba(16,185,129,0.3)] transition-all transform hover:scale-105 active:scale-95 uppercase tracking-wide text-center"
