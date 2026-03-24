@@ -38,7 +38,7 @@ export default function Hero() {
           </div>
           
           <a 
-            href="https://payfast.greenn.com.br/sk6m7hy/offer/P9mMuj" 
+            href="https://payfast.greenn.com.br/redirect/273530" 
             target="_blank" 
             rel="noopener noreferrer"
             className="w-full max-w-xl mx-auto flex items-center justify-center bg-emerald-500 hover:bg-emerald-600 text-white font-black text-lg md:text-xl py-5 px-8 rounded-xl shadow-[0_0_20px_rgba(16,185,129,0.4)] transition-all transform hover:scale-105 active:scale-95 uppercase tracking-wide text-center"
