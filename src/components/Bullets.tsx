@@ -2,11 +2,12 @@ import { XCircle } from 'lucide-react';
 
 export default function Bullets() {
   const pains = [
-    "Você chora (ou quase) toda vez que recebe um orçamento de buffet ou decoração no WhatsApp.",
-    "Sente que a palavra 'casamento' faz os fornecedores multiplicarem o preço por 5 magicamente.",
-    "Está morrendo de medo de ter que fazer uma festa 'feia' ou 'simples demais' só porque não tem R$ 50 mil sobrando.",
-    "Acha injusto ter que escolher entre a festa dos sonhos e a viagem de lua de mel (ou a entrada do apartamento).",
-    "Está cansada de ouvir parentes dizendo que 'casamento é caro mesmo, tem que se endividar'."
+    "Medo de estourar o orçamento e se endividar.",
+    "Medo de escolher errado e se arrepender depois.",
+    "Sensação de que todo fornecedor quer empurrar mais serviços.",
+    "Pressão para fazer algo bonito sem virar dívida.",
+    "Excesso de informação e nenhuma direção clara.",
+    "Pavor de gastar muito e no final não parecer tudo isso."
   ];
 
   return (
@@ -16,7 +17,8 @@ export default function Bullets() {
           A dura realidade de ser noiva hoje...
         </h2>
         <p className="text-xl text-zinc-600 text-center mb-12 font-medium max-w-2xl mx-auto">
-          Responda com sinceridade: quantas dessas situações abaixo você está vivendo agora?
+          Ser noiva deveria ser emocionante. Mas, para muita gente, vira uma mistura de pressão, medo de gastar errado e a sensação de que tudo custa mais do que deveria.<br/><br/>
+          Você quer um casamento lindo — mas sem cair na armadilha de pagar caro em detalhes que mal mudam a experiência dos convidados.
         </p>
         
         <ul className="space-y-4">

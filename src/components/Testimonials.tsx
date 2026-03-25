@@ -3,19 +3,19 @@ import { Star } from 'lucide-react';
 export default function Testimonials() {
   const testimonials = [
     {
-      hook: "Achei que seria mais um PDF com dicas óbvias do Pinterest...",
-      text: "Eu já tinha lido de tudo na internet. Mas o guia me mostrou um erro na escolha da data que ia me custar R$ 8.000 a mais no buffet. Só com essa dica, o guia se pagou mil vezes. Meu casamento foi impecável e sobrou dinheiro para a lua de mel.",
-      author: "Camila R., casou com R$ 6.800"
+      hook: "Eu já tinha visto muita coisa na internet...",
+      text: "Mas aqui foi a primeira vez que senti que alguém me mostrou o que realmente importa. O guia me deu uma direção clara e me salvou de gastar rios de dinheiro em coisas inúteis.",
+      author: "Camila R."
     },
     {
-      hook: "Meu maior medo era que o casamento parecesse 'barato'...",
-      text: "Eu queria algo elegante, mas os orçamentos batiam R$ 40 mil. Apliquei o método de divisão de custos e a estratégia de iluminação. Meus convidados acharam que gastamos uma fortuna. Ninguém acreditou quando eu disse que foi menos de 7 mil.",
-      author: "Amanda T., casou com R$ 5.900"
+      hook: "Só de evitar um erro que eu ia cometer...",
+      text: "O material já se pagou. Eu ia fechar um contrato caríssimo por pura pressão do fornecedor. O método me deu clareza para decidir sem cair na armadilha de gastar com tudo.",
+      author: "Amanda T."
     },
     {
-      hook: "Faltavam só 3 meses e nosso orçamento já tinha estourado...",
-      text: "Estávamos desesperados e quase cancelando a festa. O guia nos ensinou a renegociar contratos já fechados e a cortar os 'impostos invisíveis' dos fornecedores. Conseguimos salvar a festa e ainda recuperar R$ 4.500 que já estavam perdidos.",
-      author: "Letícia e Bruno, casaram com R$ 7.100"
+      hook: "Gostei porque não é só economia...",
+      text: "É inteligência para fazer o casamento parecer mais sofisticado. Meus convidados não precisam saber quanto eu gastei, eles só precisam sentir o impacto. E foi exatamente isso que aconteceu.",
+      author: "Letícia e Bruno"
     }
   ];
 

@@ -22,7 +22,7 @@ export default function Author() {
           </p>
           
           <p className="text-xl md:text-2xl font-bold text-emerald-600 leading-tight">
-            Seu objetivo é provar que um casamento perfeito não depende de gastar fortunas — mas de fazer escolhas inteligentes.
+            Eu sei como esse momento mistura sonho, pressão e medo de errar. Por isso esse material foi criado para te ajudar a fazer escolhas mais inteligentes, com mais leveza, beleza e segurança.
           </p>
         </div>
       </div>

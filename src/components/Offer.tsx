@@ -14,8 +14,8 @@ export default function Offer() {
             
             {/* Coluna 1: O que vai aprender (Curiosidade) */}
             <div className="md:col-span-3">
-              <h3 className="text-3xl font-black text-emerald-600 mb-8 uppercase tracking-tight">
-                O Guia Completo
+              <h3 className="text-2xl font-black text-emerald-600 mb-8 uppercase tracking-tight">
+                Um conteúdo prático e estratégico para ajudar você a planejar um casamento bonito, inteligente e muito mais alinhado ao que realmente gera impacto.
               </h3>
               
               {/* Imagem no mobile */}
@@ -32,19 +32,19 @@ export default function Offer() {
               <ul className="space-y-6 text-lg font-medium text-zinc-700">
                 <li className="flex items-start">
                   <CheckCircle2 className="w-7 h-7 text-emerald-500 mr-4 flex-shrink-0 mt-0.5" />
-                  <span><strong className="text-zinc-900">O "Imposto Invisível":</strong> A palavra proibida que você nunca deve dizer ao pedir um orçamento se não quiser pagar o dobro.</span>
+                  <span><strong className="text-zinc-900">Segredos da Noiva Inteligente:</strong> O guia principal com a lógica que ajuda você a evitar desperdícios, priorizar melhor seu orçamento e fazer escolhas que aumentam a percepção de elegância.</span>
                 </li>
                 <li className="flex items-start">
                   <CheckCircle2 className="w-7 h-7 text-emerald-500 mr-4 flex-shrink-0 mt-0.5" />
-                  <span><strong className="text-zinc-900">A Regra dos 15 Minutos:</strong> O pequeno ajuste de horário que pode cortar o custo do aluguel do local pela metade.</span>
+                  <span><strong className="text-zinc-900">Direcionamento Estratégico para Decidir com Clareza:</strong> Para sair da confusão, reduzir o impulso nas escolhas e entender o que realmente vale a pena no seu casamento.</span>
                 </li>
                 <li className="flex items-start">
                   <CheckCircle2 className="w-7 h-7 text-emerald-500 mr-4 flex-shrink-0 mt-0.5" />
-                  <span><strong className="text-zinc-900">O Segredo do Buffet:</strong> O formato de cardápio elegante que alimenta melhor e custa 40% menos que o tradicional.</span>
+                  <span><strong className="text-zinc-900">Estrutura Prática para Economizar com Inteligência:</strong> Para não cair na armadilha de gastar demais em detalhes que quase não mudam a experiência dos convidados.</span>
                 </li>
                 <li className="flex items-start">
                   <CheckCircle2 className="w-7 h-7 text-emerald-500 mr-4 flex-shrink-0 mt-0.5" />
-                  <span><strong className="text-zinc-900">A Tática da Data:</strong> Os dias exatos do ano em que os fornecedores premium imploram por clientes e dão descontos absurdos.</span>
+                  <span><strong className="text-zinc-900">Visão Mais Sofisticada e Menos Emocional sobre o Orçamento:</strong> Para organizar suas decisões com mais segurança e criar um evento bonito sem parecer apertado ou improvisado.</span>
                 </li>
               </ul>
             </div>
@@ -78,8 +78,11 @@ export default function Offer() {
           </div>
 
           <div className="mt-12 pt-12 border-t border-zinc-100 text-center">
-            <p className="text-zinc-500 font-bold uppercase tracking-widest text-sm mb-4">
-              O preço de um lanche no iFood para salvar o seu casamento
+            <p className="text-zinc-800 font-bold text-xl md:text-2xl mb-4">
+              Um único erro evitado já pode fazer esse material se pagar várias vezes.
+            </p>
+            <p className="text-zinc-600 font-medium text-lg mb-8 max-w-2xl mx-auto">
+              Você não está comprando informação. Está comprando clareza para não desperdiçar dinheiro no seu grande dia.
             </p>
             <div className="flex flex-col items-center justify-center mb-8">
               <span className="text-zinc-400 line-through text-2xl mb-1 font-medium">De R$ 97,00</span>
@@ -99,6 +102,9 @@ export default function Offer() {
             >
               QUERO ACESSO IMEDIATO AO DOSSIÊ
             </a>
+            <p className="text-zinc-500 text-sm mt-4 font-medium">
+              No checkout, você poderá adicionar materiais complementares opcionais para aumentar ainda mais sua organização e seu poder de negociação.
+            </p>
             <TrustBadges className="text-zinc-500 mt-6" />
           </div>
         </div>

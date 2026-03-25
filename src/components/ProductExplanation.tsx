@@ -7,28 +7,26 @@ export default function ProductExplanation() {
           A verdade sobre a <span className="text-red-500">"Taxa Noiva"</span>
         </p>
 
-        <p>
-          Você já reparou que alugar um salão para um "aniversário" custa R$ 2.000, mas se você disser que é para um "casamento", o mesmo salão, no mesmo dia, pula para R$ 6.000?
-        </p>
+        <div className="bg-white p-8 rounded-2xl shadow-sm border border-zinc-200 mb-10">
+          <p className="text-xl font-bold text-zinc-900 mb-4">
+            A "Taxa Noiva" é quando o preço sobe não porque ficou melhor — mas porque você está emocionalmente vulnerável e o mercado sabe disso.
+          </p>
+          <ul className="space-y-3 text-lg text-zinc-700 list-disc pl-5">
+            <li>O mesmo item muda de preço quando ganha o rótulo "casamento".</li>
+            <li>A emoção da data faz muita noiva aceitar valores sem critério.</li>
+            <li>O problema não é pagar por qualidade; é pagar caro no que não aumenta percepção.</li>
+          </ul>
+        </div>
 
-        <p className="font-bold text-zinc-900 text-2xl">
-          Isso não é coincidência. É um modelo de negócios.
-        </p>
-
-        <p>
-          A indústria de casamentos movimenta bilhões por ano baseada em uma única emoção: <strong>o seu sonho.</strong> Eles sabem que você está vulnerável, ansiosa e disposta a fazer de tudo para que o dia seja perfeito.
-        </p>
-
-        <blockquote className="border-l-4 border-emerald-500 pl-6 py-4 italic font-medium text-xl md:text-2xl text-zinc-800 bg-white shadow-sm rounded-r-xl my-10">
-          "Eles cobram 3x mais porque sabem que a maioria das noivas tem vergonha de negociar ou medo de parecer 'pobre'."
-        </blockquote>
-
-        <p>
-          Mas e se você soubesse exatamente o que dizer para quebrar essa lógica? E se você tivesse em mãos o roteiro exato para negociar como uma profissional, cortando até 70% dos custos sem perder 1% da elegância?
+        <p className="font-bold text-zinc-900 text-2xl text-center mb-12">
+          O mercado lucra mais quando a noiva compra no emocional e decide sem estratégia.
         </p>
 
         {/* Carrossel de Prova Social / WhatsApp */}
         <div className="w-full my-12">
+          <p className="text-center text-zinc-900 font-bold text-2xl mb-2 px-4">
+            Enquanto muita noiva se perde em dica solta da internet, aqui você encontra uma lógica prática de decisão.
+          </p>
           <p className="text-center text-zinc-500 font-bold uppercase tracking-widest text-sm mb-6">
             O que dizem as noivas que aplicaram o método
           </p>
@@ -68,11 +66,11 @@ export default function ProductExplanation() {
 
         <div className="bg-zinc-900 p-8 md:p-10 rounded-3xl shadow-2xl mt-12 text-white">
           <p className="font-black text-2xl md:text-3xl text-emerald-400 mb-6 leading-tight">
-            O Dossiê Anti-Indústria: Segredos da Noiva Inteligente
+            Não se trata de cortar tudo. Se trata de saber exatamente onde o dinheiro gera impacto — e onde ele evapora.
           </p>
 
-          <p className="mb-8 text-zinc-300">
-            Eu recompilei todas as brechas, táticas de negociação e segredos de bastidores que os fornecedores de luxo usam, e transformei em um manual prático para você.
+          <p className="mb-8 text-zinc-300 text-lg">
+            Eu recompilei toda a minha experiência real e visão prática para criar um guia focado não em "casamento barato", mas sim em <strong>casamento inteligente</strong>.
           </p>
 
           <ul className="space-y-4 font-medium text-zinc-100">

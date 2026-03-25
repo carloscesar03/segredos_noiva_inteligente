@@ -20,7 +20,7 @@ export default function Guarantee() {
           </p>
           
           <p className="text-lg md:text-xl text-zinc-700 leading-relaxed mb-8 font-medium">
-            Se você não encontrar pelo menos UMA dica que te faça economizar no mínimo 10x o valor que pagou no guia (ou seja, R$ 150), basta me mandar um único e-mail. Eu devolvo seus R$ 15 na mesma hora.
+            Teste por 7 dias. Se você sentir que o material não te trouxe mais clareza, direção e percepção de economia estratégica, basta pedir reembolso. O risco fica com a gente.
           </p>
           
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 text-lg font-bold text-zinc-900">

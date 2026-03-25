@@ -13,11 +13,11 @@ export default function Hero() {
         </div>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-black tracking-tight mb-8 leading-[1.1]">
-          O segredo que a indústria de casamentos <span className="text-emerald-400">reza para você nunca descobrir.</span>
+          Como fazer um casamento com cara de caro, impressionar seus convidados e <span className="text-emerald-400">gastar muito menos do que a maioria imagina.</span>
         </h1>
         
         <p className="text-xl md:text-2xl text-zinc-300 mb-12 max-w-3xl mx-auto font-medium leading-relaxed">
-          Como organizar um casamento de "capa de revista" gastando até <strong className="text-white">3x menos que a média</strong> — sem que nenhum convidado perceba que você economizou.
+          Descubra como tomar decisões mais inteligentes, evitar gastos invisíveis e criar uma experiência que parece muito mais cara do que realmente foi.
         </p>
 
         {/* SUGESTÃO DE IMAGEM: Antes e Depois ou Contraste */}
@@ -43,7 +43,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="w-full max-w-xl mx-auto flex items-center justify-center bg-emerald-500 hover:bg-emerald-600 text-white font-black text-lg md:text-xl py-5 px-8 rounded-xl shadow-[0_0_20px_rgba(16,185,129,0.4)] transition-all transform hover:scale-105 active:scale-95 uppercase tracking-wide text-center"
           >
-            QUERO DESCOBRIR O SEGREDO AGORA
+            QUERO APRENDER A CASAR BONITO SEM GASTAR ERRADO
           </a>
           <TrustBadges className="text-zinc-400 mt-4" />
         </div>

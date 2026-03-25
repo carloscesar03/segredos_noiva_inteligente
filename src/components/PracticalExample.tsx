@@ -5,7 +5,7 @@ export default function PracticalExample() {
     <section className="bg-zinc-900 text-white py-16 md:py-24 px-4">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-3xl md:text-5xl font-black tracking-tight mb-16 text-center text-emerald-400">
-          Exemplo Prático
+          Um único ajuste inteligente já pode mudar muito o custo final do seu casamento
         </h2>
 
         <div className="bg-zinc-800 rounded-3xl p-8 md:p-12 shadow-2xl border border-zinc-700/50">
@@ -15,7 +15,7 @@ export default function PracticalExample() {
             </p>
             
             <p>
-              Quando começou a pedir orçamentos, todos começavam em <span className="text-red-400 font-bold">R$80.000</span>.
+              Quando começou a pedir orçamentos, o básico não saía por menos de <span className="text-red-400 font-bold">R$ 35.000</span>.
             </p>
             
             <p className="italic text-zinc-400">
@@ -51,16 +51,16 @@ export default function PracticalExample() {
                 Um casamento mágico que os convidados lembram até hoje.
               </p>
               <p className="text-3xl font-black text-emerald-400 bg-emerald-950/50 inline-block px-6 py-3 rounded-xl border border-emerald-800/50">
-                Custo total: R$25.000 para 100 pessoas.
+                Custo total: R$ 8.500 para 80 pessoas.
               </p>
             </div>
 
             <div className="mt-12 text-center">
               <p className="text-2xl font-bold text-white mb-4">
-                Agora imagine aplicar estratégias ainda mais focadas em economia.
+                Você não precisa cortar o sonho. Precisa cortar desperdício disfarçado de necessidade.
               </p>
-              <p className="text-xl text-emerald-400 font-medium">
-                É assim que muitos casais conseguem realizar casamentos completos por menos de R$7.000.
+              <p className="text-xl text-emerald-400 font-medium mt-4">
+                É perfeitamente possível realizar um casamento inesquecível e elegante gastando entre R$ 7.000 e R$ 9.000.
               </p>
             </div>
           </div>

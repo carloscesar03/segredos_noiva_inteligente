@@ -17,31 +17,34 @@ export default function Summary() {
           {/* Opção 1 */}
           <div className="bg-white rounded-3xl p-8 md:p-10 shadow-md border-t-4 border-red-500 flex flex-col items-center text-center">
             <XCircle className="w-16 h-16 text-red-500 mb-6" />
-            <h3 className="text-2xl font-black text-zinc-900 mb-4 uppercase tracking-wider">A primeira:</h3>
-            <p className="text-lg text-zinc-600 leading-relaxed mb-4">
-              Fechar essa página, continuar pedindo orçamentos e...
-            </p>
-            <p className="text-xl font-bold text-red-600">
-              aceitar pagar a "Taxa Noiva", gastando R$ 40.000 ou mais para realizar seu casamento.
-            </p>
+            <h3 className="text-2xl font-black text-zinc-900 mb-4 uppercase tracking-wider">Sem o método:</h3>
+            <ul className="text-lg text-zinc-600 leading-relaxed mb-4 text-left list-disc pl-5 space-y-2">
+              <li>Decide no improviso</li>
+              <li>Se perde no excesso de opções</li>
+              <li>Aceita preço sem critério</li>
+              <li>Gasta em coisas de pouco impacto</li>
+              <li>Corre risco de sentir que pagou demais</li>
+            </ul>
           </div>
 
           {/* Opção 2 */}
           <div className="bg-zinc-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border-t-4 border-emerald-500 flex flex-col items-center text-center transform md:-translate-y-4">
             <CheckCircle className="w-16 h-16 text-emerald-500 mb-6" />
-            <h3 className="text-2xl font-black text-white mb-4 uppercase tracking-wider">A segunda:</h3>
-            <p className="text-lg text-zinc-300 leading-relaxed mb-4">
-              Investir o valor de um lanche no iFood hoje para...
-            </p>
-            <p className="text-xl font-bold text-emerald-400">
-              descobrir os segredos da indústria e ter o casamento dos sonhos gastando 3x menos.
-            </p>
+            <h3 className="text-2xl font-black text-white mb-4 uppercase tracking-wider">Com o método:</h3>
+            <ul className="text-lg text-zinc-300 leading-relaxed mb-4 text-left list-disc pl-5 space-y-2">
+              <li>Decide com clareza</li>
+              <li>Sabe o que realmente gera percepção de elegância</li>
+              <li>Distribui melhor o orçamento</li>
+              <li>Evita desperdícios difíceis de perceber na hora</li>
+              <li>Cria um casamento mais inteligente e memorável</li>
+            </ul>
           </div>
         </div>
 
         <div className="bg-white rounded-3xl p-8 md:p-12 shadow-lg border border-zinc-200 text-center">
           <p className="text-2xl md:text-3xl font-bold text-zinc-800 mb-8 leading-tight">
-            Com apenas <span className="text-emerald-600 font-black">R$ 27,00</span>, você terá acesso ao guia que mostra exatamente como fazer isso.
+            Seus convidados não precisam saber quanto você gastou. Eles só precisam sentir o impacto.<br/><br/>
+            Com apenas <span className="text-emerald-600 font-black">R$ 27,00</span>, você leva um conteúdo que pode evitar erros muito mais caros do que esse valor.
           </p>
           
           <p className="text-xl text-zinc-600 mb-10 font-medium">

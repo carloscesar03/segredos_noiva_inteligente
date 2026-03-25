@@ -14,13 +14,10 @@ export default function WhatYouWillLearn() {
             </div>
             <div className="flex-1">
               <h3 className="text-2xl font-bold text-zinc-800 mb-4">
-                Como o mercado de casamentos infla preços
+                Como descobrir o que realmente faz um casamento parecer elegante
               </h3>
               <p className="text-lg text-zinc-600 leading-relaxed mb-4">
-                Você vai entender por que muitos fornecedores aumentam valores automaticamente quando ouvem a palavra “casamento”.
-              </p>
-              <p className="text-lg font-medium text-emerald-600">
-                E como evitar pagar esse “imposto invisível”.
+                Você vai entender a diferença entre o que custa caro e o que realmente gera impacto visual para os seus convidados.
               </p>
             </div>
           </div>
@@ -34,27 +31,10 @@ export default function WhatYouWillLearn() {
             </div>
             <div className="flex-1">
               <h3 className="text-2xl font-bold text-zinc-800 mb-4">
-                O planejamento que economiza milhares
+                Como evitar gastar em detalhes que quase ninguém percebe
               </h3>
               <p className="text-lg text-zinc-600 leading-relaxed mb-6">
-                Aprenda a escolher:
-              </p>
-              <ul className="space-y-3 mb-6 text-lg font-medium text-zinc-700">
-                <li className="flex items-center">
-                  <span className="w-2 h-2 bg-emerald-400 rounded-full mr-3"></span>
-                  datas com descontos reais
-                </li>
-                <li className="flex items-center">
-                  <span className="w-2 h-2 bg-emerald-400 rounded-full mr-3"></span>
-                  horários que reduzem custos
-                </li>
-                <li className="flex items-center">
-                  <span className="w-2 h-2 bg-emerald-400 rounded-full mr-3"></span>
-                  locais que parecem caros… mas custam muito menos
-                </li>
-              </ul>
-              <p className="text-lg font-semibold text-zinc-900 bg-zinc-50 p-4 rounded-xl border border-zinc-100">
-                Pequenas decisões que podem cortar até metade do orçamento.
+                Aprenda a identificar os "impostos invisíveis" e os gastos desnecessários que a indústria tenta te empurrar.
               </p>
             </div>
           </div>
@@ -68,22 +48,44 @@ export default function WhatYouWillLearn() {
             </div>
             <div className="flex-1">
               <h3 className="text-2xl font-bold text-zinc-800 mb-4">
-                O método para montar um casamento completo por menos de R$7.000
+                Como distribuir melhor o orçamento para gerar mais impacto visual
               </h3>
               <p className="text-lg text-zinc-600 leading-relaxed mb-6">
-                O guia mostra exatamente como dividir o orçamento entre:
+                Como organizar seu orçamento sem cair na ilusão de que tudo precisa ser caro para parecer sofisticado.
               </p>
-              
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-8">
-                {['local', 'buffet', 'vestido', 'decoração', 'fotografia', 'música'].map((item) => (
-                  <div key={item} className="bg-zinc-50 border border-zinc-200 rounded-xl p-3 text-center font-semibold text-zinc-700 capitalize shadow-sm">
-                    {item}
-                  </div>
-                ))}
-              </div>
+            </div>
+          </div>
 
-              <p className="text-xl font-bold text-emerald-600">
-                Criando uma celebração completa dentro de um valor realista.
+          <div className="w-full h-px bg-zinc-100"></div>
+
+          {/* Passo 04 */}
+          <div className="flex flex-col md:flex-row gap-8 items-start">
+            <div className="flex-shrink-0 w-16 h-16 bg-emerald-100 text-emerald-600 rounded-2xl flex items-center justify-center font-black text-2xl shadow-sm">
+              04
+            </div>
+            <div className="flex-1">
+              <h3 className="text-2xl font-bold text-zinc-800 mb-4">
+                Como tomar decisões sem cair na pressão de fornecedor
+              </h3>
+              <p className="text-lg text-zinc-600 leading-relaxed mb-6">
+                Como decidir com clareza para não gastar por impulso e se arrepender depois.
+              </p>
+            </div>
+          </div>
+
+          <div className="w-full h-px bg-zinc-100"></div>
+
+          {/* Passo 05 */}
+          <div className="flex flex-col md:flex-row gap-8 items-start">
+            <div className="flex-shrink-0 w-16 h-16 bg-emerald-100 text-emerald-600 rounded-2xl flex items-center justify-center font-black text-2xl shadow-sm">
+              05
+            </div>
+            <div className="flex-1">
+              <h3 className="text-2xl font-bold text-zinc-800 mb-4">
+                Como criar sensação de sofisticação mesmo com orçamento controlado
+              </h3>
+              <p className="text-lg text-zinc-600 leading-relaxed mb-6">
+                Estratégias práticas para elevar o nível do seu evento sem precisar estourar o limite que você definiu.
               </p>
             </div>
           </div>
